@@ -25,3 +25,6 @@
 [2008-01-06 10:43] fix(orderbook): reduce order-to-trade latency under 150ns [Sprint 2008.W1]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-01-10 10:21] test(matching_core): reduce order-to-trade latency under 150ns [Sprint 2008.W2]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
