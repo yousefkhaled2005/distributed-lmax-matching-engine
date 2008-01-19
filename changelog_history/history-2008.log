@@ -34,3 +34,6 @@
 [2008-01-15 11:28] docs(orderbook): tune zero-allocation message serializer [Sprint 2008.W3]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-01-19 10:15] docs(orderbook): optimize lock-free ring buffer sequence barrier [Sprint 2008.W3]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
