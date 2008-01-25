@@ -40,3 +40,6 @@
 [2008-01-22 11:29] docs(sequencer): reduce order-to-trade latency under 150ns [Sprint 2008.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-01-25 11:45] refactor(sequencer): implement Level-3 limit order book matching [Sprint 2008.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
