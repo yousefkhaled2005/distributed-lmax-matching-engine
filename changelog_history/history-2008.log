@@ -46,3 +46,6 @@
 [2008-01-27 10:14] refactor(sequencer): calibrate pre-trade credit risk engine [Sprint 2008.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-01-30 10:46] feat(matching_core): implement Level-3 limit order book matching [Sprint 2008.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
