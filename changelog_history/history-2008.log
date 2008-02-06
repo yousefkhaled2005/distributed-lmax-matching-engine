@@ -52,3 +52,6 @@
 [2008-02-02 13:24] test(multicast): optimize lock-free ring buffer sequence barrier [Sprint 2008.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-02-06 13:56] feat(market_data): reduce order-to-trade latency under 150ns [Sprint 2008.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
