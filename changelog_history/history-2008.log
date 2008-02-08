@@ -55,3 +55,6 @@
 [2008-02-06 13:56] feat(market_data): reduce order-to-trade latency under 150ns [Sprint 2008.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-02-08 13:45] test(sequencer): reduce order-to-trade latency under 150ns [Sprint 2008.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
