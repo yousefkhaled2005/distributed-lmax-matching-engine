@@ -67,3 +67,6 @@
 [2008-02-17 12:47] fix(ring_buffer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-02-20 13:14] fix(orderbook): reduce order-to-trade latency under 150ns [Sprint 2008.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
