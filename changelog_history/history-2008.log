@@ -88,3 +88,6 @@
 [2008-03-09 21:44] feat(matching_core): calibrate pre-trade credit risk engine [Sprint 2008.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-03-14 00:02] feat(matching_core): reduce order-to-trade latency under 150ns [Sprint 2008.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
