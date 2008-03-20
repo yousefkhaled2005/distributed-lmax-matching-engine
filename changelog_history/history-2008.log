@@ -94,3 +94,6 @@
 [2008-03-18 02:36] feat(risk_gate): optimize lock-free ring buffer sequence barrier [Sprint 2008.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-03-20 05:05] test(orderbook): calibrate pre-trade credit risk engine [Sprint 2008.W12]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
