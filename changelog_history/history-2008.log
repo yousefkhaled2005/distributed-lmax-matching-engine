@@ -97,3 +97,6 @@
 [2008-03-20 05:05] test(orderbook): calibrate pre-trade credit risk engine [Sprint 2008.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-03-23 06:28] docs(itch50): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W12]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
