@@ -100,3 +100,6 @@
 [2008-03-23 06:28] docs(itch50): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-03-26 04:31] docs(risk_gate): reduce order-to-trade latency under 150ns [Sprint 2008.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
