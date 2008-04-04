@@ -109,3 +109,6 @@
 [2008-03-31 07:59] fix(multicast): tune zero-allocation message serializer [Sprint 2008.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-04-04 11:05] test(ring_buffer): tune zero-allocation message serializer [Sprint 2008.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
