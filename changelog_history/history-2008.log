@@ -118,3 +118,6 @@
 [2008-04-08 10:32] perf(itch50): implement Level-3 limit order book matching [Sprint 2008.W15]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-04-12 13:09] docs(fix44): implement FIX 4.4 session heartbeat recovery [Sprint 2008.W15]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
