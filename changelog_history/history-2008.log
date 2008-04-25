@@ -130,3 +130,6 @@
 [2008-04-21 13:35] fix(matching_core): calibrate pre-trade credit risk engine [Sprint 2008.W17]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-04-25 12:58] docs(sequencer): calibrate pre-trade credit risk engine [Sprint 2008.W17]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
