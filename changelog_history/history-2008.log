@@ -133,3 +133,6 @@
 [2008-04-25 12:58] docs(sequencer): calibrate pre-trade credit risk engine [Sprint 2008.W17]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-04-29 11:00] refactor(sequencer): optimize lock-free ring buffer sequence barrier [Sprint 2008.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
