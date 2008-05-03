@@ -136,3 +136,6 @@
 [2008-04-29 11:00] refactor(sequencer): optimize lock-free ring buffer sequence barrier [Sprint 2008.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-05-03 13:47] feat(disruptor): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
