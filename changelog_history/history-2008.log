@@ -148,3 +148,6 @@
 [2008-05-10 13:36] feat(multicast): implement FIX 4.4 session heartbeat recovery [Sprint 2008.W19]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-05-13 17:04] feat(risk_gate): reduce order-to-trade latency under 150ns [Sprint 2008.W20]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
