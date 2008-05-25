@@ -6,3 +6,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-lmax-matching-engine
 
+[2008-05-25 10:44] docs(sequencer): introduce Chandy-Lamport snapshot barrier in release cycle 2008.Q2
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-lmax-matching-engine
+
