@@ -169,3 +169,6 @@
 [2008-05-31 17:43] feat(itch50): tune zero-allocation message serializer [Sprint 2008.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-06-04 21:10] fix(market_data): integrate Solarflare OpenOnload kernel bypass [Sprint 2008.W23]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
