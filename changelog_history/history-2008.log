@@ -172,3 +172,6 @@
 [2008-06-04 21:10] fix(market_data): integrate Solarflare OpenOnload kernel bypass [Sprint 2008.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-06-06 22:31] perf(disruptor): implement FIX 4.4 session heartbeat recovery [Sprint 2008.W23]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
