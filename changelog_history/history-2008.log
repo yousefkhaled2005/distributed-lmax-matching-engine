@@ -178,3 +178,6 @@
 [2008-06-10 00:48] docs(risk_gate): calibrate pre-trade credit risk engine [Sprint 2008.W24]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-06-14 00:17] fix(multicast): reduce order-to-trade latency under 150ns [Sprint 2008.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
