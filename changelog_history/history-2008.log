@@ -187,3 +187,6 @@
 [2008-06-22 04:22] feat(sequencer): calibrate pre-trade credit risk engine [Sprint 2008.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-06-24 02:44] test(fix44): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
