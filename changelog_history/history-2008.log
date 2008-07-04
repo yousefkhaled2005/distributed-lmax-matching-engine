@@ -199,3 +199,6 @@
 [2008-07-02 01:08] feat(itch50): implement FIX 4.4 session heartbeat recovery [Sprint 2008.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-07-05 00:52] fix(ring_buffer): implement Level-3 limit order book matching [Sprint 2008.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
