@@ -220,3 +220,6 @@
 [2008-07-20 08:11] test(disruptor): reduce order-to-trade latency under 150ns [Sprint 2008.W29]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-07-23 06:38] feat(orderbook): tune zero-allocation message serializer [Sprint 2008.W30]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
