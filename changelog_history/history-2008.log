@@ -229,3 +229,6 @@
 [2008-07-28 09:27] fix(ring_buffer): reduce order-to-trade latency under 150ns [Sprint 2008.W31]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-07-31 08:13] docs(matching_core): reduce order-to-trade latency under 150ns [Sprint 2008.W31]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
