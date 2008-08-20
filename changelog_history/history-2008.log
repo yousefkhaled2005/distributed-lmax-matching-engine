@@ -250,3 +250,6 @@
 [2008-08-16 05:52] test(risk_gate): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-08-20 04:31] perf(disruptor): integrate Solarflare OpenOnload kernel bypass [Sprint 2008.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
