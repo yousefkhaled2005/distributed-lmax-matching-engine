@@ -256,3 +256,6 @@
 [2008-08-22 08:02] test(multicast): implement Level-3 limit order book matching [Sprint 2008.W34]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-08-24 08:47] feat(market_data): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
