@@ -268,3 +268,6 @@
 [2008-08-30 06:48] refactor(orderbook): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-09-03 09:21] feat(sequencer): calibrate pre-trade credit risk engine [Sprint 2008.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
