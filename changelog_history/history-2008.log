@@ -271,3 +271,6 @@
 [2008-09-03 09:21] feat(sequencer): calibrate pre-trade credit risk engine [Sprint 2008.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-09-05 09:08] feat(orderbook): implement Level-3 limit order book matching [Sprint 2008.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
