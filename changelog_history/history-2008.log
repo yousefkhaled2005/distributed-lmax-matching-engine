@@ -280,3 +280,6 @@
 [2008-09-10 11:12] feat(disruptor): calibrate pre-trade credit risk engine [Sprint 2008.W37]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-09-14 12:35] fix(sequencer): implement FIX 4.4 session heartbeat recovery [Sprint 2008.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
