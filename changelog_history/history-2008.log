@@ -292,3 +292,6 @@
 [2008-09-23 18:16] feat(risk_gate): reduce order-to-trade latency under 150ns [Sprint 2008.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-09-27 22:01] feat(disruptor): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
