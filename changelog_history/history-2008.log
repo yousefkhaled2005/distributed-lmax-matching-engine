@@ -295,3 +295,6 @@
 [2008-09-27 22:01] feat(disruptor): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-10-01 21:07] perf(sequencer): integrate Solarflare OpenOnload kernel bypass [Sprint 2008.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
