@@ -298,3 +298,6 @@
 [2008-10-01 21:07] perf(sequencer): integrate Solarflare OpenOnload kernel bypass [Sprint 2008.W40]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-10-04 19:46] test(orderbook): integrate Solarflare OpenOnload kernel bypass [Sprint 2008.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
