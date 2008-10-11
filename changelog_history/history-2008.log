@@ -304,3 +304,6 @@
 [2008-10-08 22:59] fix(ring_buffer): implement FIX 4.4 session heartbeat recovery [Sprint 2008.W41]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-10-11 21:43] test(itch50): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W41]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
