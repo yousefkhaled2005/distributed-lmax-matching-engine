@@ -310,3 +310,6 @@
 [2008-10-14 23:15] feat(risk_gate): tune zero-allocation message serializer [Sprint 2008.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-10-18 02:31] feat(fix44): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
