@@ -313,3 +313,6 @@
 [2008-10-18 02:31] feat(fix44): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-10-20 01:09] test(risk_gate): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
