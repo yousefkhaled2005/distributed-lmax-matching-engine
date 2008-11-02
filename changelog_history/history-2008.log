@@ -328,3 +328,6 @@
 [2008-10-31 03:01] feat(itch50): reduce order-to-trade latency under 150ns [Sprint 2008.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-11-02 03:17] feat(orderbook): implement FIX 4.4 session heartbeat recovery [Sprint 2008.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
