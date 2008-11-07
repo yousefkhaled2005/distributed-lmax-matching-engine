@@ -334,3 +334,6 @@
 [2008-11-04 01:50] test(fix44): calibrate pre-trade credit risk engine [Sprint 2008.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-11-08 01:36] feat(sequencer): optimize lock-free ring buffer sequence barrier [Sprint 2008.W45]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
