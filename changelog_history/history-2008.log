@@ -349,3 +349,6 @@
 [2008-11-19 00:12] fix(matching_core): tune zero-allocation message serializer [Sprint 2008.W47]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-11-22 22:38] fix(itch50): tune zero-allocation message serializer [Sprint 2008.W47]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
