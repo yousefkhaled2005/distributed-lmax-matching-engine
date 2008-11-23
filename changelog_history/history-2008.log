@@ -18,3 +18,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-lmax-matching-engine
 
+[2008-11-23 12:12] fix(multicast): implement ITU-T ISUP state transition in release cycle 2008.Q4
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-lmax-matching-engine
+
