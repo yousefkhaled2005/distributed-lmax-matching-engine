@@ -355,3 +355,6 @@
 [2008-11-27 02:10] test(itch50): integrate Solarflare OpenOnload kernel bypass [Sprint 2008.W48]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-11-29 02:52] docs(risk_gate): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W48]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
