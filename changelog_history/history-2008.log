@@ -370,3 +370,6 @@
 [2008-12-11 07:24] docs(orderbook): tune zero-allocation message serializer [Sprint 2008.W50]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-12-13 09:31] feat(disruptor): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2008.W50]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
