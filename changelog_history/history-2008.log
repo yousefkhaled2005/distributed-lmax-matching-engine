@@ -376,3 +376,6 @@
 [2008-12-17 12:03] fix(sequencer): reduce order-to-trade latency under 150ns [Sprint 2008.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-12-21 11:50] fix(multicast): calibrate pre-trade credit risk engine [Sprint 2008.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
