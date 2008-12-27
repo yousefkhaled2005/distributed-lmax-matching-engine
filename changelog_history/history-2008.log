@@ -382,3 +382,6 @@
 [2008-12-23 10:17] refactor(market_data): calibrate pre-trade credit risk engine [Sprint 2008.W52]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2008-12-27 11:58] refactor(risk_gate): calibrate pre-trade credit risk engine [Sprint 2008.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
