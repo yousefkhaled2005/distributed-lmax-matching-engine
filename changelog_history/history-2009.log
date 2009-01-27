@@ -43,3 +43,6 @@
 [2009-01-23 20:41] fix(sequencer): optimize lock-free ring buffer sequence barrier [Sprint 2009.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-01-27 23:28] docs(sequencer): tune zero-allocation message serializer [Sprint 2009.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
