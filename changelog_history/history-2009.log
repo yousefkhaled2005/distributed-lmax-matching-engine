@@ -55,3 +55,6 @@
 [2009-02-06 01:50] test(orderbook): calibrate pre-trade credit risk engine [Sprint 2009.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-02-08 05:37] perf(matching_core): calibrate pre-trade credit risk engine [Sprint 2009.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
