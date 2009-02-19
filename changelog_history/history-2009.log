@@ -67,3 +67,6 @@
 [2009-02-16 10:40] perf(market_data): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2009.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-02-19 12:05] docs(orderbook): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2009.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
