@@ -70,3 +70,6 @@
 [2009-02-19 12:05] docs(orderbook): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2009.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-02-23 13:13] feat(matching_core): tune zero-allocation message serializer [Sprint 2009.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
