@@ -73,3 +73,6 @@
 [2009-02-23 13:13] feat(matching_core): tune zero-allocation message serializer [Sprint 2009.W9]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-02-26 11:59] fix(market_data): optimize lock-free ring buffer sequence barrier [Sprint 2009.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
