@@ -91,3 +91,6 @@
 [2009-03-11 22:04] fix(sequencer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2009.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-03-14 00:41] fix(orderbook): tune zero-allocation message serializer [Sprint 2009.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
