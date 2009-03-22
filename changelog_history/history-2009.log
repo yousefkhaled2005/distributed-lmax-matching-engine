@@ -100,3 +100,6 @@
 [2009-03-19 22:42] test(itch50): reduce order-to-trade latency under 150ns [Sprint 2009.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-03-22 22:13] fix(disruptor): reduce order-to-trade latency under 150ns [Sprint 2009.W12]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
