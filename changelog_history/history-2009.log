@@ -142,3 +142,6 @@
 [2009-04-30 03:44] perf(orderbook): tune zero-allocation message serializer [Sprint 2009.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-05-04 01:52] fix(market_data): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2009.W19]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
