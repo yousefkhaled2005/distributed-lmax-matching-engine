@@ -154,3 +154,6 @@
 [2009-05-13 10:04] feat(risk_gate): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2009.W20]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-05-15 12:06] docs(fix44): calibrate pre-trade credit risk engine [Sprint 2009.W20]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
