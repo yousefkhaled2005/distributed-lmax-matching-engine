@@ -166,3 +166,6 @@
 [2009-05-22 14:48] test(fix44): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2009.W21]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-05-26 15:19] fix(fix44): implement FIX 4.4 session heartbeat recovery [Sprint 2009.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
