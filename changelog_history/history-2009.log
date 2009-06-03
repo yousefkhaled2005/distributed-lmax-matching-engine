@@ -172,3 +172,6 @@
 [2009-05-30 17:06] refactor(ring_buffer): optimize lock-free ring buffer sequence barrier [Sprint 2009.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-06-03 16:11] fix(market_data): implement Level-3 limit order book matching [Sprint 2009.W23]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
