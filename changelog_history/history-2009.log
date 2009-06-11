@@ -178,3 +178,6 @@
 [2009-06-07 18:13] perf(fix44): calibrate pre-trade credit risk engine [Sprint 2009.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-06-11 19:01] perf(risk_gate): implement FIX 4.4 session heartbeat recovery [Sprint 2009.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
