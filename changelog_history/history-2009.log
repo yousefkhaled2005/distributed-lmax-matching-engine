@@ -190,3 +190,6 @@
 [2009-06-19 21:10] fix(risk_gate): optimize lock-free ring buffer sequence barrier [Sprint 2009.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-06-21 22:28] test(multicast): optimize lock-free ring buffer sequence barrier [Sprint 2009.W25]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
