@@ -196,3 +196,6 @@
 [2009-06-24 23:53] feat(disruptor): reduce order-to-trade latency under 150ns [Sprint 2009.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-06-29 00:13] perf(itch50): calibrate pre-trade credit risk engine [Sprint 2009.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
