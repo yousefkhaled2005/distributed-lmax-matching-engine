@@ -199,3 +199,6 @@
 [2009-06-29 00:13] perf(itch50): calibrate pre-trade credit risk engine [Sprint 2009.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-07-02 02:36] perf(sequencer): tune zero-allocation message serializer [Sprint 2009.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
