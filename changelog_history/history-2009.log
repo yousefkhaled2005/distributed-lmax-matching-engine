@@ -10,3 +10,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-lmax-matching-engine
 
+[2009-07-16 12:16] docs(ring_buffer): add hardware cacheline alignment padding in release cycle 2009.Q3
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-lmax-matching-engine
+
