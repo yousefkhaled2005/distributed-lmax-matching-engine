@@ -217,3 +217,6 @@
 [2009-07-19 05:11] perf(market_data): optimize lock-free ring buffer sequence barrier [Sprint 2009.W29]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-07-22 03:53] test(ring_buffer): calibrate pre-trade credit risk engine [Sprint 2009.W30]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
