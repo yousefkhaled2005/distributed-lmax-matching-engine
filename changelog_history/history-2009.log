@@ -232,3 +232,6 @@
 [2009-08-02 10:16] perf(ring_buffer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2009.W31]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-08-04 09:38] refactor(disruptor): tune zero-allocation message serializer [Sprint 2009.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
