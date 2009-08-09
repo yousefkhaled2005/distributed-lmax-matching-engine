@@ -238,3 +238,6 @@
 [2009-08-06 12:01] docs(market_data): implement FIX 4.4 session heartbeat recovery [Sprint 2009.W32]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-08-09 11:24] fix(ring_buffer): implement FIX 4.4 session heartbeat recovery [Sprint 2009.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
