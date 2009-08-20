@@ -247,3 +247,6 @@
 [2009-08-16 14:14] test(sequencer): reduce order-to-trade latency under 150ns [Sprint 2009.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-08-20 13:18] test(multicast): reduce order-to-trade latency under 150ns [Sprint 2009.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
