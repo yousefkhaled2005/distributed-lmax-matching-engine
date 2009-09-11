@@ -268,3 +268,6 @@
 [2009-09-08 18:26] perf(multicast): optimize lock-free ring buffer sequence barrier [Sprint 2009.W37]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-09-11 16:27] refactor(orderbook): calibrate pre-trade credit risk engine [Sprint 2009.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
