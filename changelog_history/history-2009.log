@@ -295,3 +295,6 @@
 [2009-10-02 20:39] refactor(orderbook): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2009.W40]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-10-06 22:17] feat(disruptor): implement FIX 4.4 session heartbeat recovery [Sprint 2009.W41]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
