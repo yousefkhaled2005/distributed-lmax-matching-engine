@@ -301,3 +301,6 @@
 [2009-10-10 21:21] perf(orderbook): implement FIX 4.4 session heartbeat recovery [Sprint 2009.W41]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-10-14 20:32] fix(sequencer): calibrate pre-trade credit risk engine [Sprint 2009.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
