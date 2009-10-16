@@ -304,3 +304,6 @@
 [2009-10-14 20:32] fix(sequencer): calibrate pre-trade credit risk engine [Sprint 2009.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-10-16 23:57] docs(matching_core): implement FIX 4.4 session heartbeat recovery [Sprint 2009.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
