@@ -313,3 +313,6 @@
 [2009-10-23 02:18] test(market_data): implement FIX 4.4 session heartbeat recovery [Sprint 2009.W43]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-10-27 01:26] feat(ring_buffer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2009.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
