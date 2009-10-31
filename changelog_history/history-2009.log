@@ -319,3 +319,6 @@
 [2009-10-29 04:58] fix(fix44): integrate Solarflare OpenOnload kernel bypass [Sprint 2009.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-10-31 05:08] docs(market_data): reduce order-to-trade latency under 150ns [Sprint 2009.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
