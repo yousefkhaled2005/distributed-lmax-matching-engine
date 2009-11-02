@@ -322,3 +322,6 @@
 [2009-10-31 05:08] docs(market_data): reduce order-to-trade latency under 150ns [Sprint 2009.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-11-02 07:18] refactor(itch50): optimize lock-free ring buffer sequence barrier [Sprint 2009.W45]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
