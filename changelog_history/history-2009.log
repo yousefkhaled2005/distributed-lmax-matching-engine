@@ -337,3 +337,6 @@
 [2009-11-13 12:25] docs(sequencer): implement FIX 4.4 session heartbeat recovery [Sprint 2009.W46]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-11-15 13:04] docs(risk_gate): tune zero-allocation message serializer [Sprint 2009.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
