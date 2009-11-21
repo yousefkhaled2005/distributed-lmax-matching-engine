@@ -343,3 +343,6 @@
 [2009-11-17 12:09] fix(disruptor): tune zero-allocation message serializer [Sprint 2009.W47]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-11-21 12:58] perf(fix44): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2009.W47]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
