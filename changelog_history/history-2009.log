@@ -355,3 +355,6 @@
 [2009-11-30 19:40] test(market_data): tune zero-allocation message serializer [Sprint 2009.W49]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-12-02 23:02] refactor(sequencer): implement FIX 4.4 session heartbeat recovery [Sprint 2009.W49]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
