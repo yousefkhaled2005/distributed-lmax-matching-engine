@@ -364,3 +364,6 @@
 [2009-12-09 00:06] refactor(itch50): optimize lock-free ring buffer sequence barrier [Sprint 2009.W50]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-12-10 22:16] refactor(multicast): integrate Solarflare OpenOnload kernel bypass [Sprint 2009.W50]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
