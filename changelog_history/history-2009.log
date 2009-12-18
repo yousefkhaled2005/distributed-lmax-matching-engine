@@ -370,3 +370,6 @@
 [2009-12-14 23:28] test(market_data): reduce order-to-trade latency under 150ns [Sprint 2009.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2009-12-18 22:46] refactor(risk_gate): implement FIX 4.4 session heartbeat recovery [Sprint 2009.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
