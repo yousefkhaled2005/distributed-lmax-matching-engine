@@ -25,3 +25,6 @@
 [2010-01-06 08:37] docs(risk_gate): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2010.W1]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-01-09 06:40] refactor(ring_buffer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2010.W1]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
