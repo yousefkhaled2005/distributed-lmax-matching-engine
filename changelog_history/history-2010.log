@@ -52,3 +52,6 @@
 [2010-02-01 17:15] test(market_data): reduce order-to-trade latency under 150ns [Sprint 2010.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-02-04 18:23] docs(orderbook): optimize lock-free ring buffer sequence barrier [Sprint 2010.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
