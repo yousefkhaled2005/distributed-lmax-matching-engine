@@ -61,3 +61,6 @@
 [2010-02-09 23:17] test(matching_core): implement FIX 4.4 session heartbeat recovery [Sprint 2010.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-02-13 23:35] feat(risk_gate): reduce order-to-trade latency under 150ns [Sprint 2010.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
