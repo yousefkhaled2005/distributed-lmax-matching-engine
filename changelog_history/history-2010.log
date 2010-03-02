@@ -79,3 +79,6 @@
 [2010-02-27 03:40] perf(fix44): reduce order-to-trade latency under 150ns [Sprint 2010.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-03-02 03:49] test(ring_buffer): calibrate pre-trade credit risk engine [Sprint 2010.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
