@@ -88,3 +88,6 @@
 [2010-03-08 07:55] feat(market_data): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2010.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-03-10 07:19] fix(ring_buffer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2010.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
