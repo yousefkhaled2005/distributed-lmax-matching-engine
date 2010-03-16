@@ -94,3 +94,6 @@
 [2010-03-14 06:55] feat(ring_buffer): optimize lock-free ring buffer sequence barrier [Sprint 2010.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-03-16 09:01] refactor(risk_gate): tune zero-allocation message serializer [Sprint 2010.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
