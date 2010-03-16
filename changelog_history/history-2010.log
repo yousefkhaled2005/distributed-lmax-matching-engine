@@ -2,3 +2,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-lmax-matching-engine
 
+[2010-03-16 14:26] refactor(risk_gate): reduce P99 latency jitter under burst load in release cycle 2010.Q1
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-lmax-matching-engine
+
