@@ -100,3 +100,6 @@
 [2010-03-20 12:43] test(sequencer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2010.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-03-24 13:26] feat(ring_buffer): implement FIX 4.4 session heartbeat recovery [Sprint 2010.W12]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
