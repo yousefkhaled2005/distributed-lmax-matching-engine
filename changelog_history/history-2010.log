@@ -106,3 +106,6 @@
 [2010-03-27 15:09] fix(ring_buffer): optimize lock-free ring buffer sequence barrier [Sprint 2010.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-03-29 17:40] refactor(orderbook): reduce order-to-trade latency under 150ns [Sprint 2010.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
