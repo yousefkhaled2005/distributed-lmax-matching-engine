@@ -109,3 +109,6 @@
 [2010-03-29 17:40] refactor(orderbook): reduce order-to-trade latency under 150ns [Sprint 2010.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-03-31 15:43] perf(itch50): tune zero-allocation message serializer [Sprint 2010.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
