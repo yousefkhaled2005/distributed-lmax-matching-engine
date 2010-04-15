@@ -127,3 +127,6 @@
 [2010-04-12 22:12] perf(orderbook): optimize lock-free ring buffer sequence barrier [Sprint 2010.W15]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-04-15 22:58] test(sequencer): optimize lock-free ring buffer sequence barrier [Sprint 2010.W15]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
