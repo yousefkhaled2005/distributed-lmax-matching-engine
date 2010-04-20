@@ -130,3 +130,6 @@
 [2010-04-15 22:58] test(sequencer): optimize lock-free ring buffer sequence barrier [Sprint 2010.W15]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-04-20 02:10] perf(risk_gate): tune zero-allocation message serializer [Sprint 2010.W16]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
