@@ -136,3 +136,6 @@
 [2010-04-23 00:29] test(risk_gate): optimize lock-free ring buffer sequence barrier [Sprint 2010.W16]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-04-27 01:18] test(market_data): calibrate pre-trade credit risk engine [Sprint 2010.W17]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
