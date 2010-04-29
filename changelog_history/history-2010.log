@@ -139,3 +139,6 @@
 [2010-04-27 01:18] test(market_data): calibrate pre-trade credit risk engine [Sprint 2010.W17]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-04-30 00:04] feat(matching_core): optimize lock-free ring buffer sequence barrier [Sprint 2010.W17]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
