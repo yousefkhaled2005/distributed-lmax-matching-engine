@@ -154,3 +154,6 @@
 [2010-05-13 12:54] feat(risk_gate): implement Level-3 limit order book matching [Sprint 2010.W19]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-05-16 13:31] perf(ring_buffer): implement FIX 4.4 session heartbeat recovery [Sprint 2010.W19]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
