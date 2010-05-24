@@ -163,3 +163,6 @@
 [2010-05-21 13:56] test(sequencer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2010.W20]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-05-24 17:43] feat(fix44): optimize lock-free ring buffer sequence barrier [Sprint 2010.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
