@@ -187,3 +187,6 @@
 [2010-06-13 04:02] refactor(orderbook): reduce order-to-trade latency under 150ns [Sprint 2010.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-06-16 05:50] perf(orderbook): reduce order-to-trade latency under 150ns [Sprint 2010.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
