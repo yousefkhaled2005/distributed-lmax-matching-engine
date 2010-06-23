@@ -196,3 +196,6 @@
 [2010-06-20 06:30] perf(matching_core): integrate Solarflare OpenOnload kernel bypass [Sprint 2010.W24]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-06-23 08:55] feat(itch50): calibrate pre-trade credit risk engine [Sprint 2010.W25]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
