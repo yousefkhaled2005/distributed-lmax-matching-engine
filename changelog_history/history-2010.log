@@ -214,3 +214,6 @@
 [2010-07-04 15:08] docs(itch50): implement Level-3 limit order book matching [Sprint 2010.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-07-06 16:22] test(risk_gate): integrate Solarflare OpenOnload kernel bypass [Sprint 2010.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
