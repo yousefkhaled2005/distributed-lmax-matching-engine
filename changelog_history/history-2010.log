@@ -220,3 +220,6 @@
 [2010-07-08 19:46] docs(orderbook): calibrate pre-trade credit risk engine [Sprint 2010.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-07-10 23:14] test(market_data): reduce order-to-trade latency under 150ns [Sprint 2010.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
