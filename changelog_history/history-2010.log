@@ -229,3 +229,6 @@
 [2010-07-15 23:54] feat(fix44): integrate Solarflare OpenOnload kernel bypass [Sprint 2010.W28]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-07-18 02:37] perf(risk_gate): integrate Solarflare OpenOnload kernel bypass [Sprint 2010.W28]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
