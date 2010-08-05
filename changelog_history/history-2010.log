@@ -244,3 +244,6 @@
 [2010-08-01 04:16] test(disruptor): reduce order-to-trade latency under 150ns [Sprint 2010.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-08-05 06:06] feat(fix44): integrate Solarflare OpenOnload kernel bypass [Sprint 2010.W31]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
