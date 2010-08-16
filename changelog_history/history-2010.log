@@ -256,3 +256,6 @@
 [2010-08-12 08:18] perf(disruptor): reduce order-to-trade latency under 150ns [Sprint 2010.W32]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-08-16 11:23] perf(multicast): integrate Solarflare OpenOnload kernel bypass [Sprint 2010.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
