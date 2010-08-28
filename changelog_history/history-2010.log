@@ -271,3 +271,6 @@
 [2010-08-26 14:38] fix(disruptor): calibrate pre-trade credit risk engine [Sprint 2010.W34]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-08-28 16:53] test(ring_buffer): calibrate pre-trade credit risk engine [Sprint 2010.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
