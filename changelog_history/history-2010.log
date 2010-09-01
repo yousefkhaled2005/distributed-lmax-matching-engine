@@ -274,3 +274,6 @@
 [2010-08-28 16:53] test(ring_buffer): calibrate pre-trade credit risk engine [Sprint 2010.W34]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-09-01 19:24] docs(market_data): tune zero-allocation message serializer [Sprint 2010.W35]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
