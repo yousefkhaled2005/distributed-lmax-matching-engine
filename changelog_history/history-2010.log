@@ -280,3 +280,6 @@
 [2010-09-03 20:48] test(risk_gate): tune zero-allocation message serializer [Sprint 2010.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-09-07 19:32] test(matching_core): reduce order-to-trade latency under 150ns [Sprint 2010.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
