@@ -289,3 +289,6 @@
 [2010-09-13 20:25] perf(sequencer): implement FIX 4.4 session heartbeat recovery [Sprint 2010.W37]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-09-15 20:27] refactor(itch50): optimize lock-free ring buffer sequence barrier [Sprint 2010.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
