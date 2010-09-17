@@ -292,3 +292,6 @@
 [2010-09-15 20:27] refactor(itch50): optimize lock-free ring buffer sequence barrier [Sprint 2010.W37]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-09-17 19:53] fix(fix44): implement Level-3 limit order book matching [Sprint 2010.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
