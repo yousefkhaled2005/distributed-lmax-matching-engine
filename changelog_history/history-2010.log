@@ -298,3 +298,6 @@
 [2010-09-20 19:21] fix(market_data): reduce order-to-trade latency under 150ns [Sprint 2010.W38]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-09-23 22:47] feat(fix44): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2010.W38]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
