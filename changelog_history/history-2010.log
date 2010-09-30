@@ -304,3 +304,6 @@
 [2010-09-26 23:26] test(ring_buffer): implement Level-3 limit order book matching [Sprint 2010.W38]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-09-30 23:07] docs(disruptor): integrate Solarflare OpenOnload kernel bypass [Sprint 2010.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
