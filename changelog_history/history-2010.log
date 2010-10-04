@@ -307,3 +307,6 @@
 [2010-09-30 23:07] docs(disruptor): integrate Solarflare OpenOnload kernel bypass [Sprint 2010.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-10-04 22:56] test(orderbook): integrate Solarflare OpenOnload kernel bypass [Sprint 2010.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
