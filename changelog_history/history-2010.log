@@ -313,3 +313,6 @@
 [2010-10-07 23:30] test(matching_core): tune zero-allocation message serializer [Sprint 2010.W40]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-10-11 00:52] test(ring_buffer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2010.W41]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
