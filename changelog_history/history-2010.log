@@ -334,3 +334,6 @@
 [2010-10-31 12:03] docs(multicast): tune zero-allocation message serializer [Sprint 2010.W43]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-11-04 11:48] refactor(orderbook): tune zero-allocation message serializer [Sprint 2010.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
