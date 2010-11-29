@@ -361,3 +361,6 @@
 [2010-11-27 22:29] feat(disruptor): implement Level-3 limit order book matching [Sprint 2010.W47]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-11-29 23:18] perf(disruptor): tune zero-allocation message serializer [Sprint 2010.W48]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
