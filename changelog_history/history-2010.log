@@ -364,3 +364,6 @@
 [2010-11-29 23:18] perf(disruptor): tune zero-allocation message serializer [Sprint 2010.W48]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-12-01 23:24] perf(fix44): optimize lock-free ring buffer sequence barrier [Sprint 2010.W48]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
