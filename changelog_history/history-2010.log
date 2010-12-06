@@ -370,3 +370,6 @@
 [2010-12-04 00:54] feat(disruptor): optimize lock-free ring buffer sequence barrier [Sprint 2010.W48]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-12-07 00:28] fix(market_data): implement FIX 4.4 session heartbeat recovery [Sprint 2010.W49]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
