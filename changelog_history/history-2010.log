@@ -385,3 +385,6 @@
 [2010-12-18 03:17] test(itch50): reduce order-to-trade latency under 150ns [Sprint 2010.W50]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-12-21 04:05] refactor(disruptor): implement Level-3 limit order book matching [Sprint 2010.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
