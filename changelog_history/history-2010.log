@@ -388,3 +388,6 @@
 [2010-12-21 04:05] refactor(disruptor): implement Level-3 limit order book matching [Sprint 2010.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2010-12-24 07:53] perf(disruptor): calibrate pre-trade credit risk engine [Sprint 2010.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
