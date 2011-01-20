@@ -37,3 +37,6 @@
 [2011-01-18 18:13] perf(risk_gate): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2011.W3]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-01-20 21:22] feat(sequencer): tune zero-allocation message serializer [Sprint 2011.W3]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
