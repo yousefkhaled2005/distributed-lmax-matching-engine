@@ -43,3 +43,6 @@
 [2011-01-23 23:08] refactor(ring_buffer): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W3]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-01-27 02:15] fix(sequencer): calibrate pre-trade credit risk engine [Sprint 2011.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
