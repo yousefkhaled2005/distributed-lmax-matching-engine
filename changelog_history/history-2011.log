@@ -46,3 +46,6 @@
 [2011-01-27 02:15] fix(sequencer): calibrate pre-trade credit risk engine [Sprint 2011.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-01-30 02:41] perf(matching_core): optimize lock-free ring buffer sequence barrier [Sprint 2011.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
