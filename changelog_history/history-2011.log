@@ -64,3 +64,6 @@
 [2011-02-16 05:34] refactor(orderbook): implement Level-3 limit order book matching [Sprint 2011.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-02-20 07:52] test(matching_core): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W7]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
