@@ -88,3 +88,6 @@
 [2011-03-09 21:16] feat(orderbook): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2011.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-03-13 00:39] feat(risk_gate): implement Level-3 limit order book matching [Sprint 2011.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
