@@ -97,3 +97,6 @@
 [2011-03-20 02:19] fix(disruptor): optimize lock-free ring buffer sequence barrier [Sprint 2011.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-03-23 00:58] refactor(matching_core): integrate Solarflare OpenOnload kernel bypass [Sprint 2011.W12]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
