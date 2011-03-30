@@ -103,3 +103,6 @@
 [2011-03-26 00:42] docs(multicast): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-03-30 03:16] test(sequencer): integrate Solarflare OpenOnload kernel bypass [Sprint 2011.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
