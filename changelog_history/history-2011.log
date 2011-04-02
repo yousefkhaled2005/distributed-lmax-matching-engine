@@ -106,3 +106,6 @@
 [2011-03-30 03:16] test(sequencer): integrate Solarflare OpenOnload kernel bypass [Sprint 2011.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-04-02 02:29] refactor(matching_core): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2011.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
