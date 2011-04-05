@@ -109,3 +109,6 @@
 [2011-04-02 02:29] refactor(matching_core): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2011.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-04-05 03:07] fix(disruptor): reduce order-to-trade latency under 150ns [Sprint 2011.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
