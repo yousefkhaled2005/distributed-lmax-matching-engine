@@ -115,3 +115,6 @@
 [2011-04-09 04:32] perf(matching_core): optimize lock-free ring buffer sequence barrier [Sprint 2011.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-04-11 07:13] docs(risk_gate): tune zero-allocation message serializer [Sprint 2011.W15]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
