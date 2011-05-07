@@ -136,3 +136,6 @@
 [2011-05-04 15:45] docs(itch50): reduce order-to-trade latency under 150ns [Sprint 2011.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-05-07 14:49] refactor(fix44): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
