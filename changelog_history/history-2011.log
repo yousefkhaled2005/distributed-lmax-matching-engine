@@ -139,3 +139,6 @@
 [2011-05-07 14:49] refactor(fix44): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-05-10 17:22] feat(ring_buffer): tune zero-allocation message serializer [Sprint 2011.W19]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
