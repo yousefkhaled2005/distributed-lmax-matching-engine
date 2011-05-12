@@ -142,3 +142,6 @@
 [2011-05-10 17:22] feat(ring_buffer): tune zero-allocation message serializer [Sprint 2011.W19]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-05-12 21:08] fix(fix44): implement Level-3 limit order book matching [Sprint 2011.W19]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
