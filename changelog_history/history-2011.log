@@ -160,3 +160,6 @@
 [2011-05-29 01:04] docs(sequencer): tune zero-allocation message serializer [Sprint 2011.W21]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-05-31 04:51] fix(sequencer): calibrate pre-trade credit risk engine [Sprint 2011.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
