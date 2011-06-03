@@ -163,3 +163,6 @@
 [2011-05-31 04:51] fix(sequencer): calibrate pre-trade credit risk engine [Sprint 2011.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-06-03 06:00] refactor(sequencer): reduce order-to-trade latency under 150ns [Sprint 2011.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
