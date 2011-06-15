@@ -175,3 +175,6 @@
 [2011-06-11 11:57] docs(multicast): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2011.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-06-15 12:47] fix(matching_core): calibrate pre-trade credit risk engine [Sprint 2011.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
