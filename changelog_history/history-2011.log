@@ -178,3 +178,6 @@
 [2011-06-15 12:47] fix(matching_core): calibrate pre-trade credit risk engine [Sprint 2011.W24]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-06-17 14:57] test(itch50): integrate Solarflare OpenOnload kernel bypass [Sprint 2011.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
