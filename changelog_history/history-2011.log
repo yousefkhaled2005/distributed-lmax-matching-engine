@@ -181,3 +181,6 @@
 [2011-06-17 14:57] test(itch50): integrate Solarflare OpenOnload kernel bypass [Sprint 2011.W24]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-06-20 17:28] feat(multicast): reduce order-to-trade latency under 150ns [Sprint 2011.W25]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
