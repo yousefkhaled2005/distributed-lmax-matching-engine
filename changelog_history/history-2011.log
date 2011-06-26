@@ -187,3 +187,6 @@
 [2011-06-24 18:52] feat(disruptor): calibrate pre-trade credit risk engine [Sprint 2011.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-06-26 19:12] fix(fix44): optimize lock-free ring buffer sequence barrier [Sprint 2011.W25]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
