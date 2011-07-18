@@ -205,3 +205,6 @@
 [2011-07-13 23:17] perf(sequencer): integrate Solarflare OpenOnload kernel bypass [Sprint 2011.W28]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-07-18 02:56] refactor(orderbook): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W29]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
