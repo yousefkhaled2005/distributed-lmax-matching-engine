@@ -211,3 +211,6 @@
 [2011-07-21 03:40] refactor(itch50): optimize lock-free ring buffer sequence barrier [Sprint 2011.W29]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-07-24 01:48] test(orderbook): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W29]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
