@@ -235,3 +235,6 @@
 [2011-08-15 02:23] test(fix44): calibrate pre-trade credit risk engine [Sprint 2011.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-08-19 05:48] test(risk_gate): reduce order-to-trade latency under 150ns [Sprint 2011.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
