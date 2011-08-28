@@ -247,3 +247,6 @@
 [2011-08-25 11:41] docs(orderbook): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W34]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-08-28 14:45] fix(itch50): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
