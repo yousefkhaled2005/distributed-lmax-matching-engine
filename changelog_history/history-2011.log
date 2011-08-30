@@ -250,3 +250,6 @@
 [2011-08-28 14:45] fix(itch50): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W34]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-08-30 15:13] docs(fix44): tune zero-allocation message serializer [Sprint 2011.W35]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
