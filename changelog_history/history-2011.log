@@ -256,3 +256,6 @@
 [2011-09-02 14:40] feat(matching_core): implement Level-3 limit order book matching [Sprint 2011.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-09-06 16:07] feat(itch50): optimize lock-free ring buffer sequence barrier [Sprint 2011.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
