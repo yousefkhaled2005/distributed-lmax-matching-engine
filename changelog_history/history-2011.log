@@ -280,3 +280,6 @@
 [2011-09-28 22:42] fix(disruptor): tune zero-allocation message serializer [Sprint 2011.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-09-30 23:03] fix(multicast): reduce order-to-trade latency under 150ns [Sprint 2011.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
