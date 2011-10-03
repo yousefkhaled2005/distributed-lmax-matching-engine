@@ -283,3 +283,6 @@
 [2011-09-30 23:03] fix(multicast): reduce order-to-trade latency under 150ns [Sprint 2011.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-10-04 00:37] fix(market_data): implement Level-3 limit order book matching [Sprint 2011.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
