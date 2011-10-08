@@ -286,3 +286,6 @@
 [2011-10-04 00:37] fix(market_data): implement Level-3 limit order book matching [Sprint 2011.W40]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-10-08 04:25] refactor(ring_buffer): implement Level-3 limit order book matching [Sprint 2011.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
