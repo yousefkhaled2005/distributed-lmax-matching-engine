@@ -301,3 +301,6 @@
 [2011-10-21 04:13] perf(ring_buffer): implement Level-3 limit order book matching [Sprint 2011.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-10-24 07:52] test(ring_buffer): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
