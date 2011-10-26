@@ -304,3 +304,6 @@
 [2011-10-24 07:52] test(ring_buffer): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W43]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-10-26 06:02] docs(sequencer): optimize lock-free ring buffer sequence barrier [Sprint 2011.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
