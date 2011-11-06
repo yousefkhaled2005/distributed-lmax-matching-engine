@@ -313,3 +313,6 @@
 [2011-11-02 04:19] feat(ring_buffer): tune zero-allocation message serializer [Sprint 2011.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-11-06 03:54] fix(itch50): integrate Solarflare OpenOnload kernel bypass [Sprint 2011.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
