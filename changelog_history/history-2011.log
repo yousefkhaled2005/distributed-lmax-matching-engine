@@ -316,3 +316,6 @@
 [2011-11-06 03:54] fix(itch50): integrate Solarflare OpenOnload kernel bypass [Sprint 2011.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-11-09 03:28] fix(matching_core): integrate Solarflare OpenOnload kernel bypass [Sprint 2011.W45]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
