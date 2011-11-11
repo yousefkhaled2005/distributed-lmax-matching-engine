@@ -319,3 +319,6 @@
 [2011-11-09 03:28] fix(matching_core): integrate Solarflare OpenOnload kernel bypass [Sprint 2011.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-11-11 04:02] perf(market_data): tune zero-allocation message serializer [Sprint 2011.W45]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
