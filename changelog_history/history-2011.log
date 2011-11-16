@@ -325,3 +325,6 @@
 [2011-11-13 04:21] test(risk_gate): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2011.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-11-16 06:07] feat(orderbook): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
