@@ -334,3 +334,6 @@
 [2011-11-23 05:59] feat(orderbook): implement Level-3 limit order book matching [Sprint 2011.W47]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-11-27 09:16] feat(itch50): implement FIX 4.4 session heartbeat recovery [Sprint 2011.W47]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
