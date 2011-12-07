@@ -343,3 +343,6 @@
 [2011-12-03 12:58] perf(fix44): implement Level-3 limit order book matching [Sprint 2011.W48]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-12-07 14:48] fix(ring_buffer): reduce order-to-trade latency under 150ns [Sprint 2011.W49]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
