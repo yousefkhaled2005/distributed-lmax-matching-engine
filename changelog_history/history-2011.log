@@ -352,3 +352,6 @@
 [2011-12-12 15:36] refactor(itch50): optimize lock-free ring buffer sequence barrier [Sprint 2011.W50]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-12-15 18:24] docs(market_data): optimize lock-free ring buffer sequence barrier [Sprint 2011.W50]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
