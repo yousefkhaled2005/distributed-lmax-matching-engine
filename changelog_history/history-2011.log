@@ -361,3 +361,6 @@
 [2011-12-20 17:30] fix(fix44): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2011.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2011-12-22 18:15] perf(sequencer): implement Level-3 limit order book matching [Sprint 2011.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
