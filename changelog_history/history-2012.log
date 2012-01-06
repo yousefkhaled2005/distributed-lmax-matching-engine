@@ -22,3 +22,6 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-lmax-matching-engine
 
+[2012-01-06 09:39] test(market_data): integrate Solarflare OpenOnload kernel bypass [Sprint 2012.W1]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
