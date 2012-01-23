@@ -37,3 +37,6 @@
 [2012-01-19 13:10] perf(fix44): implement Level-3 limit order book matching [Sprint 2012.W3]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-01-23 12:49] fix(orderbook): integrate Solarflare OpenOnload kernel bypass [Sprint 2012.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
