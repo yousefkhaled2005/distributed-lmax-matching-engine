@@ -46,3 +46,6 @@
 [2012-01-27 13:10] fix(risk_gate): implement Level-3 limit order book matching [Sprint 2012.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-01-31 16:52] fix(itch50): tune zero-allocation message serializer [Sprint 2012.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
