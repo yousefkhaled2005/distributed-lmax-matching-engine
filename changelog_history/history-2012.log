@@ -49,3 +49,6 @@
 [2012-01-31 16:52] fix(itch50): tune zero-allocation message serializer [Sprint 2012.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-02-04 16:11] test(market_data): optimize lock-free ring buffer sequence barrier [Sprint 2012.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
