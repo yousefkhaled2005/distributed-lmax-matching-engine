@@ -52,3 +52,6 @@
 [2012-02-04 16:11] test(market_data): optimize lock-free ring buffer sequence barrier [Sprint 2012.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-02-07 15:27] refactor(market_data): optimize lock-free ring buffer sequence barrier [Sprint 2012.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
