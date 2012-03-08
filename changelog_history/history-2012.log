@@ -82,3 +82,6 @@
 [2012-03-06 15:50] test(disruptor): implement Level-3 limit order book matching [Sprint 2012.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-03-08 19:23] perf(multicast): implement Level-3 limit order book matching [Sprint 2012.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
