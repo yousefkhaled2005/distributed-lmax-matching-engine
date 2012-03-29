@@ -103,3 +103,6 @@
 [2012-03-27 21:37] feat(itch50): calibrate pre-trade credit risk engine [Sprint 2012.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-03-30 00:50] test(risk_gate): optimize lock-free ring buffer sequence barrier [Sprint 2012.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
