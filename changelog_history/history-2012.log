@@ -106,3 +106,6 @@
 [2012-03-30 00:50] test(risk_gate): optimize lock-free ring buffer sequence barrier [Sprint 2012.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-04-01 01:20] docs(multicast): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2012.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
