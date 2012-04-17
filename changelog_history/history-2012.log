@@ -127,3 +127,6 @@
 [2012-04-15 09:56] refactor(matching_core): reduce order-to-trade latency under 150ns [Sprint 2012.W15]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-04-17 11:00] perf(sequencer): calibrate pre-trade credit risk engine [Sprint 2012.W16]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
