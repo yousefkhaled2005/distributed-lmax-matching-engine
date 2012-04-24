@@ -133,3 +133,6 @@
 [2012-04-21 09:34] refactor(multicast): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2012.W16]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-04-24 08:02] feat(multicast): optimize lock-free ring buffer sequence barrier [Sprint 2012.W17]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
