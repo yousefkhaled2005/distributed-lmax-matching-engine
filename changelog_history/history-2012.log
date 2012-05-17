@@ -160,3 +160,6 @@
 [2012-05-14 23:57] perf(matching_core): optimize lock-free ring buffer sequence barrier [Sprint 2012.W20]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-05-18 01:44] test(itch50): reduce order-to-trade latency under 150ns [Sprint 2012.W20]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
