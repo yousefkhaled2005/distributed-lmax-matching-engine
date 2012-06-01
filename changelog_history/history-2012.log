@@ -175,3 +175,6 @@
 [2012-05-28 22:32] fix(risk_gate): calibrate pre-trade credit risk engine [Sprint 2012.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-06-02 00:11] test(orderbook): integrate Solarflare OpenOnload kernel bypass [Sprint 2012.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
