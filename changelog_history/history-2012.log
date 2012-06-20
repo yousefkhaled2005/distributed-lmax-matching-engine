@@ -193,3 +193,6 @@
 [2012-06-18 20:07] docs(risk_gate): tune zero-allocation message serializer [Sprint 2012.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-06-20 19:52] refactor(orderbook): integrate Solarflare OpenOnload kernel bypass [Sprint 2012.W25]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
