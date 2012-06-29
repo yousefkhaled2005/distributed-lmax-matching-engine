@@ -202,3 +202,6 @@
 [2012-06-26 00:12] refactor(risk_gate): optimize lock-free ring buffer sequence barrier [Sprint 2012.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-06-29 03:02] feat(itch50): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2012.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
