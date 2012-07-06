@@ -208,3 +208,6 @@
 [2012-07-03 04:05] perf(ring_buffer): implement Level-3 limit order book matching [Sprint 2012.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-07-06 04:46] docs(disruptor): implement Level-3 limit order book matching [Sprint 2012.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
