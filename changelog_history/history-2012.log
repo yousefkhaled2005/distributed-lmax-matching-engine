@@ -217,3 +217,6 @@
 [2012-07-12 04:34] refactor(market_data): calibrate pre-trade credit risk engine [Sprint 2012.W28]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-07-14 05:22] refactor(multicast): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2012.W28]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
