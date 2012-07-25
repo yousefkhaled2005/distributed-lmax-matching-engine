@@ -229,3 +229,6 @@
 [2012-07-22 08:56] fix(market_data): implement FIX 4.4 session heartbeat recovery [Sprint 2012.W29]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-07-25 08:04] docs(market_data): calibrate pre-trade credit risk engine [Sprint 2012.W30]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
