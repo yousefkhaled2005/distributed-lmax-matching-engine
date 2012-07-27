@@ -232,3 +232,6 @@
 [2012-07-25 08:04] docs(market_data): calibrate pre-trade credit risk engine [Sprint 2012.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-07-27 11:41] test(multicast): calibrate pre-trade credit risk engine [Sprint 2012.W30]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
