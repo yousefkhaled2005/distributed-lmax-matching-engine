@@ -238,3 +238,6 @@
 [2012-07-29 15:14] docs(ring_buffer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2012.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-07-31 16:26] refactor(matching_core): implement FIX 4.4 session heartbeat recovery [Sprint 2012.W31]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
