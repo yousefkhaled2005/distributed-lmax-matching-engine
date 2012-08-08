@@ -247,3 +247,6 @@
 [2012-08-04 18:57] perf(risk_gate): implement FIX 4.4 session heartbeat recovery [Sprint 2012.W31]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-08-08 20:13] perf(matching_core): tune zero-allocation message serializer [Sprint 2012.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
