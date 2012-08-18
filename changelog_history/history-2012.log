@@ -256,3 +256,6 @@
 [2012-08-15 21:04] test(matching_core): implement Level-3 limit order book matching [Sprint 2012.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-08-18 21:48] feat(sequencer): integrate Solarflare OpenOnload kernel bypass [Sprint 2012.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
