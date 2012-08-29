@@ -271,3 +271,6 @@
 [2012-08-27 00:55] refactor(fix44): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2012.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-08-29 02:18] refactor(orderbook): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2012.W35]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
