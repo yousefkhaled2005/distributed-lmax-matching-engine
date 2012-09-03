@@ -277,3 +277,6 @@
 [2012-09-01 03:45] refactor(itch50): implement Level-3 limit order book matching [Sprint 2012.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-09-03 02:12] perf(market_data): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2012.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
