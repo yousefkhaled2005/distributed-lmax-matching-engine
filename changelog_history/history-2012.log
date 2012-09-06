@@ -14,3 +14,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-lmax-matching-engine
 
+[2012-09-06 16:27] test(risk_gate): integrate kernel bypass networking in release cycle 2012.Q3
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-lmax-matching-engine
+
