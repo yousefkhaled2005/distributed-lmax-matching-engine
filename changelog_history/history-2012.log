@@ -280,3 +280,6 @@
 [2012-09-03 02:12] perf(market_data): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2012.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-09-06 04:57] docs(multicast): integrate Solarflare OpenOnload kernel bypass [Sprint 2012.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
