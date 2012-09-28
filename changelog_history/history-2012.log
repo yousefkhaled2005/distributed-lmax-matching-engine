@@ -301,3 +301,6 @@
 [2012-09-26 12:52] test(itch50): tune zero-allocation message serializer [Sprint 2012.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-09-28 13:37] test(matching_core): implement FIX 4.4 session heartbeat recovery [Sprint 2012.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
