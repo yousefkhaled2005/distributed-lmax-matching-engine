@@ -310,3 +310,6 @@
 [2012-10-06 15:45] perf(market_data): calibrate pre-trade credit risk engine [Sprint 2012.W40]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2012-10-10 19:33] refactor(itch50): optimize lock-free ring buffer sequence barrier [Sprint 2012.W41]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
