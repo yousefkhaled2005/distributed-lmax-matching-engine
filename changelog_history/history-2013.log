@@ -52,3 +52,6 @@
 [2013-02-06 00:48] feat(itch50): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2013.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-02-09 01:33] perf(multicast): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2013.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
