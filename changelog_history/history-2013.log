@@ -55,3 +55,6 @@
 [2013-02-09 01:33] perf(multicast): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2013.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-02-13 03:00] refactor(sequencer): reduce order-to-trade latency under 150ns [Sprint 2013.W7]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
