@@ -61,3 +61,6 @@
 [2013-02-17 02:16] docs(disruptor): implement Level-3 limit order book matching [Sprint 2013.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-02-21 01:57] refactor(risk_gate): optimize lock-free ring buffer sequence barrier [Sprint 2013.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
