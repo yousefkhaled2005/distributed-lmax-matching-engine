@@ -64,3 +64,6 @@
 [2013-02-21 01:57] refactor(risk_gate): optimize lock-free ring buffer sequence barrier [Sprint 2013.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-02-23 00:38] test(market_data): tune zero-allocation message serializer [Sprint 2013.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
