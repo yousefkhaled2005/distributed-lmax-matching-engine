@@ -73,3 +73,6 @@
 [2013-02-27 01:38] refactor(itch50): implement Level-3 limit order book matching [Sprint 2013.W9]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-03-01 02:10] fix(orderbook): tune zero-allocation message serializer [Sprint 2013.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
