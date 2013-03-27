@@ -100,3 +100,6 @@
 [2013-03-25 12:10] test(matching_core): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2013.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-03-27 14:44] fix(sequencer): tune zero-allocation message serializer [Sprint 2013.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
