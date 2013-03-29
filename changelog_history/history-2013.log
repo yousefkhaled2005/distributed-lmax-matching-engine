@@ -103,3 +103,6 @@
 [2013-03-27 14:44] fix(sequencer): tune zero-allocation message serializer [Sprint 2013.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-03-29 15:50] test(disruptor): reduce order-to-trade latency under 150ns [Sprint 2013.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
