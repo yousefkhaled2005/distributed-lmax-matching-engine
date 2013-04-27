@@ -130,3 +130,6 @@
 [2013-04-25 17:13] feat(market_data): implement Level-3 limit order book matching [Sprint 2013.W17]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-04-27 16:31] fix(risk_gate): calibrate pre-trade credit risk engine [Sprint 2013.W17]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
