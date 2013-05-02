@@ -136,3 +136,6 @@
 [2013-04-29 18:12] refactor(itch50): calibrate pre-trade credit risk engine [Sprint 2013.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-05-02 20:27] docs(itch50): reduce order-to-trade latency under 150ns [Sprint 2013.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
