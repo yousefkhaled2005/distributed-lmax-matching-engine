@@ -139,3 +139,6 @@
 [2013-05-02 20:27] docs(itch50): reduce order-to-trade latency under 150ns [Sprint 2013.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-05-05 20:31] feat(sequencer): tune zero-allocation message serializer [Sprint 2013.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
