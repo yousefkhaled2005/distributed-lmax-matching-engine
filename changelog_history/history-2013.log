@@ -151,3 +151,6 @@
 [2013-05-15 01:29] refactor(orderbook): implement Level-3 limit order book matching [Sprint 2013.W20]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-05-16 23:47] fix(risk_gate): calibrate pre-trade credit risk engine [Sprint 2013.W20]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
