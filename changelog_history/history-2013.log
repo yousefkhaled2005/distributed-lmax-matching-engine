@@ -166,3 +166,6 @@
 [2013-06-01 00:56] refactor(fix44): implement FIX 4.4 session heartbeat recovery [Sprint 2013.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-06-02 23:17] docs(market_data): integrate Solarflare OpenOnload kernel bypass [Sprint 2013.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
