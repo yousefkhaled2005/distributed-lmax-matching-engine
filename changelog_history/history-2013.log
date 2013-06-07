@@ -172,3 +172,6 @@
 [2013-06-05 01:39] perf(market_data): reduce order-to-trade latency under 150ns [Sprint 2013.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-06-07 05:12] feat(sequencer): implement FIX 4.4 session heartbeat recovery [Sprint 2013.W23]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
