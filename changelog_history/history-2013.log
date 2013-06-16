@@ -181,3 +181,6 @@
 [2013-06-13 03:35] refactor(orderbook): calibrate pre-trade credit risk engine [Sprint 2013.W24]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-06-16 06:39] refactor(multicast): calibrate pre-trade credit risk engine [Sprint 2013.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
