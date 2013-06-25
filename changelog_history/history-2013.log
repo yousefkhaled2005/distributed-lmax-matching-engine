@@ -190,3 +190,6 @@
 [2013-06-22 09:34] fix(market_data): implement FIX 4.4 session heartbeat recovery [Sprint 2013.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-06-25 10:46] docs(multicast): reduce order-to-trade latency under 150ns [Sprint 2013.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
