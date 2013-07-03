@@ -196,3 +196,6 @@
 [2013-06-29 10:07] refactor(multicast): implement FIX 4.4 session heartbeat recovery [Sprint 2013.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-07-03 09:14] fix(orderbook): tune zero-allocation message serializer [Sprint 2013.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
