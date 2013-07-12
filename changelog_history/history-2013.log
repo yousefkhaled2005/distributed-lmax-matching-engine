@@ -205,3 +205,6 @@
 [2013-07-08 09:08] perf(sequencer): implement Level-3 limit order book matching [Sprint 2013.W28]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-07-12 10:35] refactor(orderbook): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2013.W28]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
