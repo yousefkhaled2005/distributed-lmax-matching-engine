@@ -220,3 +220,6 @@
 [2013-07-26 16:41] test(sequencer): tune zero-allocation message serializer [Sprint 2013.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-07-29 14:51] fix(matching_core): calibrate pre-trade credit risk engine [Sprint 2013.W31]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
