@@ -253,3 +253,6 @@
 [2013-08-26 07:58] refactor(itch50): calibrate pre-trade credit risk engine [Sprint 2013.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-08-29 08:04] feat(risk_gate): implement FIX 4.4 session heartbeat recovery [Sprint 2013.W35]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
