@@ -262,3 +262,6 @@
 [2013-09-06 11:22] feat(fix44): calibrate pre-trade credit risk engine [Sprint 2013.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-09-08 12:23] perf(risk_gate): tune zero-allocation message serializer [Sprint 2013.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
