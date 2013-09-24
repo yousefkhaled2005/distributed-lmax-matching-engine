@@ -277,3 +277,6 @@
 [2013-09-21 18:29] docs(disruptor): reduce order-to-trade latency under 150ns [Sprint 2013.W38]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-09-24 19:31] perf(market_data): calibrate pre-trade credit risk engine [Sprint 2013.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
