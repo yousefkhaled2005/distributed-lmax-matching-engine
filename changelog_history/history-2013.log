@@ -301,3 +301,6 @@
 [2013-10-19 00:42] feat(disruptor): tune zero-allocation message serializer [Sprint 2013.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-10-23 01:09] feat(market_data): reduce order-to-trade latency under 150ns [Sprint 2013.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
