@@ -310,3 +310,6 @@
 [2013-10-29 06:59] perf(risk_gate): calibrate pre-trade credit risk engine [Sprint 2013.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-11-01 10:31] fix(market_data): implement Level-3 limit order book matching [Sprint 2013.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
