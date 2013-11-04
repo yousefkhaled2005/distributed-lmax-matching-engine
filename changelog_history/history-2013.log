@@ -313,3 +313,6 @@
 [2013-11-01 10:31] fix(market_data): implement Level-3 limit order book matching [Sprint 2013.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-11-04 12:51] fix(fix44): optimize lock-free ring buffer sequence barrier [Sprint 2013.W45]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
