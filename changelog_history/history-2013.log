@@ -340,3 +340,6 @@
 [2013-11-26 18:27] refactor(matching_core): tune zero-allocation message serializer [Sprint 2013.W48]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-11-30 20:56] perf(fix44): optimize lock-free ring buffer sequence barrier [Sprint 2013.W48]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
