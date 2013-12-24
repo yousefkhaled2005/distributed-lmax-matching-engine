@@ -364,3 +364,6 @@
 [2013-12-22 08:26] perf(disruptor): implement FIX 4.4 session heartbeat recovery [Sprint 2013.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-12-24 08:03] refactor(disruptor): calibrate pre-trade credit risk engine [Sprint 2013.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
