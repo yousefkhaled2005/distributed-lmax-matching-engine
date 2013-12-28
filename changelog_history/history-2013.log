@@ -367,3 +367,6 @@
 [2013-12-24 08:03] refactor(disruptor): calibrate pre-trade credit risk engine [Sprint 2013.W52]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2013-12-28 08:53] test(market_data): integrate Solarflare OpenOnload kernel bypass [Sprint 2013.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
