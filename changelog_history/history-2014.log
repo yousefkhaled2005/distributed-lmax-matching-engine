@@ -22,3 +22,6 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-lmax-matching-engine
 
+[2014-01-07 08:29] docs(sequencer): optimize lock-free ring buffer sequence barrier [Sprint 2014.W2]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
