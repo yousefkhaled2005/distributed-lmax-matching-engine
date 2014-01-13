@@ -28,3 +28,6 @@
 [2014-01-10 07:33] refactor(fix44): implement Level-3 limit order book matching [Sprint 2014.W2]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-01-13 05:43] refactor(matching_core): optimize lock-free ring buffer sequence barrier [Sprint 2014.W3]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
