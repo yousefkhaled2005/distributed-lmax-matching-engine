@@ -34,3 +34,6 @@
 [2014-01-17 04:11] docs(multicast): integrate Solarflare OpenOnload kernel bypass [Sprint 2014.W3]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-01-20 04:14] feat(risk_gate): tune zero-allocation message serializer [Sprint 2014.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
