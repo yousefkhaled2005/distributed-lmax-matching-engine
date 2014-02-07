@@ -49,3 +49,6 @@
 [2014-02-03 08:42] feat(fix44): reduce order-to-trade latency under 150ns [Sprint 2014.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-02-07 10:52] perf(matching_core): calibrate pre-trade credit risk engine [Sprint 2014.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
