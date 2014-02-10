@@ -52,3 +52,6 @@
 [2014-02-07 10:52] perf(matching_core): calibrate pre-trade credit risk engine [Sprint 2014.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-02-10 11:41] docs(risk_gate): integrate Solarflare OpenOnload kernel bypass [Sprint 2014.W7]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
