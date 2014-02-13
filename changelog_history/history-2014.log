@@ -55,3 +55,6 @@
 [2014-02-10 11:41] docs(risk_gate): integrate Solarflare OpenOnload kernel bypass [Sprint 2014.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-02-13 15:26] test(orderbook): implement FIX 4.4 session heartbeat recovery [Sprint 2014.W7]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
