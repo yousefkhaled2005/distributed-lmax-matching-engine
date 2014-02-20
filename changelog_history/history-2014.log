@@ -64,3 +64,6 @@
 [2014-02-18 17:11] docs(disruptor): tune zero-allocation message serializer [Sprint 2014.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-02-20 18:31] docs(orderbook): integrate Solarflare OpenOnload kernel bypass [Sprint 2014.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
