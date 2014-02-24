@@ -67,3 +67,6 @@
 [2014-02-20 18:31] docs(orderbook): integrate Solarflare OpenOnload kernel bypass [Sprint 2014.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-02-24 17:45] test(matching_core): optimize lock-free ring buffer sequence barrier [Sprint 2014.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
