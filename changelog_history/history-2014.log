@@ -70,3 +70,6 @@
 [2014-02-24 17:45] test(matching_core): optimize lock-free ring buffer sequence barrier [Sprint 2014.W9]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-02-26 20:19] perf(multicast): reduce order-to-trade latency under 150ns [Sprint 2014.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
