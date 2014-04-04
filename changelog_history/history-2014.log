@@ -109,3 +109,6 @@
 [2014-04-01 14:19] refactor(risk_gate): implement FIX 4.4 session heartbeat recovery [Sprint 2014.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-04-04 17:58] feat(disruptor): integrate Solarflare OpenOnload kernel bypass [Sprint 2014.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
