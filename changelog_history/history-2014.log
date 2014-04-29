@@ -136,3 +136,6 @@
 [2014-04-26 00:50] feat(sequencer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2014.W17]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-04-29 23:03] test(disruptor): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2014.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
