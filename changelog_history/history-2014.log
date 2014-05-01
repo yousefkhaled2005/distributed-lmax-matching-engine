@@ -139,3 +139,6 @@
 [2014-04-29 23:03] test(disruptor): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2014.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-05-01 21:52] feat(disruptor): optimize lock-free ring buffer sequence barrier [Sprint 2014.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
