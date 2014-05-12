@@ -148,3 +148,6 @@
 [2014-05-08 04:01] fix(fix44): integrate Solarflare OpenOnload kernel bypass [Sprint 2014.W19]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-05-12 02:35] fix(itch50): optimize lock-free ring buffer sequence barrier [Sprint 2014.W20]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
