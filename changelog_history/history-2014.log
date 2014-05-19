@@ -154,3 +154,6 @@
 [2014-05-15 02:25] docs(fix44): reduce order-to-trade latency under 150ns [Sprint 2014.W20]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-05-19 03:53] refactor(multicast): tune zero-allocation message serializer [Sprint 2014.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
