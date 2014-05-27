@@ -163,3 +163,6 @@
 [2014-05-25 08:31] test(fix44): calibrate pre-trade credit risk engine [Sprint 2014.W21]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-05-27 08:58] refactor(multicast): implement FIX 4.4 session heartbeat recovery [Sprint 2014.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
