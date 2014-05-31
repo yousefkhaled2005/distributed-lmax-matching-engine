@@ -166,3 +166,6 @@
 [2014-05-27 08:58] refactor(multicast): implement FIX 4.4 session heartbeat recovery [Sprint 2014.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-05-31 10:59] refactor(sequencer): optimize lock-free ring buffer sequence barrier [Sprint 2014.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
