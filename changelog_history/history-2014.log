@@ -187,3 +187,6 @@
 [2014-06-19 12:22] refactor(multicast): integrate Solarflare OpenOnload kernel bypass [Sprint 2014.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-06-23 12:41] perf(multicast): tune zero-allocation message serializer [Sprint 2014.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
