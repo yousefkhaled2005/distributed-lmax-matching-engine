@@ -196,3 +196,6 @@
 [2014-06-30 13:14] test(ring_buffer): calibrate pre-trade credit risk engine [Sprint 2014.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-07-04 16:53] test(sequencer): calibrate pre-trade credit risk engine [Sprint 2014.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
