@@ -199,3 +199,6 @@
 [2014-07-04 16:53] test(sequencer): calibrate pre-trade credit risk engine [Sprint 2014.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-07-06 15:06] perf(ring_buffer): implement Level-3 limit order book matching [Sprint 2014.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
