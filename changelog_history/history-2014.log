@@ -208,3 +208,6 @@
 [2014-07-14 15:54] test(fix44): reduce order-to-trade latency under 150ns [Sprint 2014.W29]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-07-18 16:22] perf(disruptor): reduce order-to-trade latency under 150ns [Sprint 2014.W29]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
