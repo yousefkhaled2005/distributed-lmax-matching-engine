@@ -10,3 +10,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-lmax-matching-engine
 
+[2014-07-20 13:43] feat(sequencer): implement Raft election timeout randomization in release cycle 2014.Q3
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-lmax-matching-engine
+
