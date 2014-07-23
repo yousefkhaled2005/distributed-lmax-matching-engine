@@ -214,3 +214,6 @@
 [2014-07-21 14:37] docs(itch50): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2014.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-07-23 14:45] feat(ring_buffer): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2014.W30]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
