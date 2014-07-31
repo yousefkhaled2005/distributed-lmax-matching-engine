@@ -220,3 +220,6 @@
 [2014-07-27 16:34] fix(risk_gate): tune zero-allocation message serializer [Sprint 2014.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-07-31 19:56] refactor(multicast): implement Level-3 limit order book matching [Sprint 2014.W31]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
