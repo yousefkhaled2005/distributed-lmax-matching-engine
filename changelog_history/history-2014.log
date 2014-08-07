@@ -226,3 +226,6 @@
 [2014-08-03 21:03] docs(disruptor): implement FIX 4.4 session heartbeat recovery [Sprint 2014.W31]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-08-07 19:06] perf(fix44): implement FIX 4.4 session heartbeat recovery [Sprint 2014.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
