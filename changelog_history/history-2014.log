@@ -235,3 +235,6 @@
 [2014-08-14 23:44] docs(market_data): implement FIX 4.4 session heartbeat recovery [Sprint 2014.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-08-17 00:59] fix(fix44): implement Level-3 limit order book matching [Sprint 2014.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
