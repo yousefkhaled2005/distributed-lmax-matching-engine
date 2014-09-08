@@ -256,3 +256,6 @@
 [2014-09-04 01:28] test(sequencer): implement Level-3 limit order book matching [Sprint 2014.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-09-08 03:14] test(fix44): reduce order-to-trade latency under 150ns [Sprint 2014.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
