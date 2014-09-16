@@ -262,3 +262,6 @@
 [2014-09-12 05:37] perf(matching_core): integrate Solarflare OpenOnload kernel bypass [Sprint 2014.W37]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-09-16 04:53] perf(market_data): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2014.W38]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
