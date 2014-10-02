@@ -277,3 +277,6 @@
 [2014-09-27 23:34] docs(disruptor): tune zero-allocation message serializer [Sprint 2014.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-10-02 02:24] fix(disruptor): reduce order-to-trade latency under 150ns [Sprint 2014.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
