@@ -289,3 +289,6 @@
 [2014-10-12 07:07] fix(ring_buffer): implement Level-3 limit order book matching [Sprint 2014.W41]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-10-16 06:43] refactor(multicast): tune zero-allocation message serializer [Sprint 2014.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
