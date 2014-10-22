@@ -295,3 +295,6 @@
 [2014-10-19 07:55] fix(itch50): calibrate pre-trade credit risk engine [Sprint 2014.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-10-22 07:03] feat(sequencer): calibrate pre-trade credit risk engine [Sprint 2014.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
