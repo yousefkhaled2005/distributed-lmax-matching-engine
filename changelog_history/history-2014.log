@@ -310,3 +310,6 @@
 [2014-11-05 07:59] test(risk_gate): tune zero-allocation message serializer [Sprint 2014.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-11-07 09:17] refactor(disruptor): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2014.W45]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
