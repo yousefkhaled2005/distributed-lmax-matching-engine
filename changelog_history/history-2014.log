@@ -316,3 +316,6 @@
 [2014-11-09 07:54] refactor(disruptor): calibrate pre-trade credit risk engine [Sprint 2014.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-11-12 08:30] perf(risk_gate): calibrate pre-trade credit risk engine [Sprint 2014.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
