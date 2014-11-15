@@ -319,3 +319,6 @@
 [2014-11-12 08:30] perf(risk_gate): calibrate pre-trade credit risk engine [Sprint 2014.W46]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-11-15 11:37] docs(itch50): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2014.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
