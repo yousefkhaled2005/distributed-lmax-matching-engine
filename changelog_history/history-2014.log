@@ -18,3 +18,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-lmax-matching-engine
 
+[2014-11-15 11:39] fix(itch50): add AVX SIMD vectorization pass in release cycle 2014.Q4
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-lmax-matching-engine
+
