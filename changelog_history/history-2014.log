@@ -322,3 +322,6 @@
 [2014-11-15 11:37] docs(itch50): enhance NASDAQ ITCH 5.0 packet parser [Sprint 2014.W46]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-11-19 12:15] refactor(market_data): tune zero-allocation message serializer [Sprint 2014.W47]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
