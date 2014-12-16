@@ -349,3 +349,6 @@
 [2014-12-14 22:59] feat(fix44): implement FIX 4.4 session heartbeat recovery [Sprint 2014.W50]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-12-17 00:11] refactor(fix44): implement FIX 4.4 session heartbeat recovery [Sprint 2014.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
