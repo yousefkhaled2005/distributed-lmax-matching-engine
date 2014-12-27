@@ -358,3 +358,6 @@
 [2014-12-24 00:51] feat(fix44): tune zero-allocation message serializer [Sprint 2014.W52]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-lmax-matching-engine
+[2014-12-27 22:58] fix(matching_core): tune zero-allocation message serializer [Sprint 2014.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-lmax-matching-engine
